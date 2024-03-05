@@ -1,13 +1,23 @@
 This file is made by [[https://zhw.pages.dev/][@wi24rd]] to track his research journey of embedded system.
 
 * Others
-- [[https://github.com/embedded-boston/awesome-embedded-systems][awesome-embedded Awesome]]
+- [[https://github.com/embedded-boston/awesome-embedded-systems][awesome-embedded Awesome]] 入门参考
 - [[https://github.com/nhivp/Awesome-Embedded][nhivp's]]
 
 * Case
 - [[https://github.com/CodethinkLabs/bloodlight-zephyr][Bloodlight-Zephyr]]
-
-* ESP32
+** JavaScript
+- [[https://github.com/espruino/Espruino][Espruino JavaScript interpreter]]
+** Python
+- [[https://github.com/micropython/micropython][MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems]]
+- [[https://github.com/adafruit/circuitpython][CircuitPython - a Python implementation for teaching coding with microcontrollers]]:
+Fork of MP.
+* MCU
+- [[https://github.com/ARM-software/CMSIS_6][Common Microcontroller Software Interface Standard]]
+- [[https://github.com/libretiny-eu/libretiny][PlatformIO development platform for BK7231 and RTL8710 IoT chips.]]
+** ARM
+- [[https://github.com/libopencm3/][Cortex-M microcontroller library]]
+** ESP32
 - [[https://github.com/esp32-open-mac][Reverse engineered wifi driver]]
 - [[https://github.com/apache/mynewt-nimble/blob/master/nimble/host/services/bleuart/src/bleuart.c][蓝牙特征的来历]]
 
