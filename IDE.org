@@ -1,0 +1,3 @@
+- [[https://github.com/platformio/platformio-eclipse-ide][PlatformIO]]
+- [[https://github.com/eclipse-embed-cdt/eclipse-plugins][Embedded CDT]]
+- [[https://github.com/espressif/idf-eclipse-plugin][idf-eclipse-plugin]]
