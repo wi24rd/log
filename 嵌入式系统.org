@@ -22,7 +22,7 @@ Fork of MP.
 - [[https://github.com/apache/mynewt-nimble/blob/master/nimble/host/services/bleuart/src/bleuart.c][蓝牙特征的来历]]
 
 * Update
-- [[https://oniroproject.readthedocs.io/en/latest/ota.html#important-considerations][Over The Air (OTA) Updates — Oniro Project 2.0.0 documentation]]：[[https://gitlab.eclipse.org/eclipse/oniro-core/oniro-readthedocs-aggregated/-/blob/main/ota.rst?ref_type=heads][GitLab 上的 ota.rst]]
+- [[https://oniroproject.readthedocs.io/en/latest/ota.html#important-considerations][Over The Air (OTA) Updates — Oniro Project 2.0.0 documentation]]：[[https://gitlab.eclipse.org/eclipse/oniro-core/oniro-readthedocs-aggregated/-/blob/main/ota.rst?ref_type=heads][GitLab 上的 ota.rst]] 文中提到了 [[https://github.com/rauc/rauc][rauc/rauc: Safe and secure software updates for embedded Linux]]
 
 * Article
 - [[https://interrupt.memfault.com/blog/boostrapping-libc-with-newlib][From Zero to main(): Bootstrapping libc with Newlib]]
