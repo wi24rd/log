@@ -6,3 +6,7 @@ This file is made by [[https://zhw.pages.dev/][@wi24rd]] to track his research j
 ** Annex K
 - [[https://github.com/rurban/safeclib][Safec libc extension with all C11 Annex K functions in ISO TR24731 Bounds Checking Interface]]
 - [[https://github.com/facebookincubator/SafeC/blob/main/secure_string_header_only.h][F厂的解决方案]]
+
+** Java
+- [[https://github.com/lordmulder/Launch5j][lordmulder/Launch5j]]: Java JAR wrapper for creating Windows native executables
+- [[https://github.com/orphan-oss/launch4j-maven-plugin][orphan-oss/launch4j-maven-plugin]]:  A Maven plugin which wraps [[https://launch4j.sourceforge.net/][Launch4j (Cross-platform Java executable wrapper)]]
