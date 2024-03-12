@@ -5,4 +5,6 @@
 - [[https://github.com/eclipse/paho.mqtt.javascript][eclipse/paho.mqtt.javascript: paho.mqtt.javascript]]
 - [[https://github.com/mqttjs/MQTT.js#readme][mqttjs/MQTT.js: The MQTT client for Node.js and the browser]]: [[https://github.com/espruino/EspruinoHub/blob/master/package.json][EspruinoHub/package.json at master · espruino/EspruinoHub]] 用的
 * 演示
+** URL
+- [[https://url-parts.glitch.me/?url=http://zhW.pages.dev:443/stripes/fur.html?pattern=tabby#claws][URL parts]]
 - [[https://github.com/e-gor/Reveal.js-Title-Footer/tree/master][脚]]
