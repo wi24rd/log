@@ -6,6 +6,9 @@ This file is made by [[https://zhw.pages.dev/][@wi24rd]] to track his research j
 
 * Case
 - [[https://github.com/CodethinkLabs/bloodlight-zephyr][Bloodlight-Zephyr]]
+** Flipper Zero
+- [[https://flipperzero.one/][Flipper Zero — Portable Multi-tool Device for Geeks]]: [[https://github.com/flipperdevices/.github/blob/50481daad9f5a5c361236927b33e0ce7eebd539b/profile/README.md][Flipper Devices 的仓库]]。
+- [[https://github.com/Next-Flip/Momentum-Website/blob/76136e1c42157fbd031f419f6c5f72fc6f577e60/public/index.html#L178][Momentum-Website/public/index.html at 76136e1c42157fbd031f419f6c5f72fc6f577e60 · Next-Flip/Momentum-Website]]: Momentum is compared with RogueMaster, Unleashed. 
 ** JavaScript
 - [[https://github.com/espruino/Espruino][Espruino JavaScript interpreter]]
 ** Python
