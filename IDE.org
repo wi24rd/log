@@ -11,3 +11,4 @@ Copyright (C) 2024 [[https://zhw.pages.dev/][@wi24rd]] All rights reserved.
 - [[https://github.com/platformio/platformio-eclipse-ide][PlatformIO]]
 - [[https://github.com/eclipse-embed-cdt/eclipse-plugins][Embedded CDT]]
 - [[https://github.com/espressif/idf-eclipse-plugin][idf-eclipse-plugin]]
+- [[https://github.com/zephyrproject-rtos/eclipse-plugin][zephyrproject-rtos/eclipse-plugin: Zephyr Eclipse Plugin]](active until 2022)
