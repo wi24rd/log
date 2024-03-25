@@ -7,7 +7,12 @@ Copyright (C) 2024 [[https://zhw.pages.dev/][@wi24rd]] All rights reserved.
 - [[https://www.youtube.com/watch?v=TFJ2nSbB2ag][Eclipse ❤️ Java - YouTube]]
 ** OSGi
 - [[https://www.youtube.com/watch?v=82XLR2xlVJQ][Create OSGI project in eclipse - YouTube]]
-* Project
+* REPO
+** Web
+- [[https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper][eclipse-wildwebdeveloper/wildwebdeveloper: Simple and productive Web Development Tools in the Eclipse IDE]]
+- [[https://github.com/eclipse/n4js][eclipse/n4js]]: High-quality JavaScript development for large Node.js projects 
+- [[https://projects.eclipse.org/projects/webtools][Eclipse Web Tools Platform Project | projects.eclipse.org]]
+** C
 - [[https://github.com/platformio/platformio-eclipse-ide][PlatformIO]]
 - [[https://github.com/eclipse-embed-cdt/eclipse-plugins][Embedded CDT]]
 - [[https://github.com/espressif/idf-eclipse-plugin][idf-eclipse-plugin]]
